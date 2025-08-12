@@ -1,6 +1,7 @@
 streamlit
 pandas
+numpy
 openpyxl
-gspread
-google-auth
 plotly
+matplotlib
+seaborn
